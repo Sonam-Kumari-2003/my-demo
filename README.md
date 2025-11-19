@@ -1,5 +1,5 @@
 # my-demo
-This is my first Git Repository
+This is the first Git Repository made by me.
 <br> 
-<h2>
+<h3>
 Author-Sonam Kumari
